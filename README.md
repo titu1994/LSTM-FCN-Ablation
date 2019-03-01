@@ -66,7 +66,6 @@ These are the functions to call the model:
 - To use the Dense FCN model:`model = generate_densefcn()`
 - To use the RNN FCN model:`model = generate_rnnfcn()`
 - To use the LSTM FCN model without dimension shuffle:`model = generate_ndlstmfcn()`
-- To use the ALSTM FCN model without diemnsion shuffle:`model = generate_ndalstmfcn()`
 
 -----
 
